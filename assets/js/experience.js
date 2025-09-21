@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Cloud Engineer Intern",
-    cardImage: "assets/images/experience-page/awsLogo.png",
+    cardImage: "assets/images/experience-page/awslogo.png",
     place: "Amazon Web Services" ,
     time: "(May - Aug, 2025)",
     desp: "<li>Developed and deployed scalable cloud infrastructure using AWS services such as EC2, S3, and Lambda, enhancing application performance and reliability.</li><li>Implemented Infrastructure as Code (IaC) using AWS CloudFormation and Terraform, automating resource provisioning and management to improve deployment efficiency by 40%.</li><li>Monitored and optimized cloud resources using AWS CloudWatch and AWS Cost Explorer, reducing operational costs by 25% through resource right-sizing and eliminating unused assets.</li><li>Collaborated with cross-functional teams to design and implement secure cloud architectures, adhering to best practices for data protection and compliance.</li>"
