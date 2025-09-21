@@ -1,2 +1,1 @@
-.vscode/*
-.idea/*
+.github/workflows/delete_merged_branch.yaml

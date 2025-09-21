@@ -20,51 +20,19 @@ const moocscards = [
     moocLink: "https://www.coursera.org/learn/machine-learning",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-  },
-  {
     title: "Javascript",
     cardImage: "assets/images/education-page/udacity.svg",
     moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
   },
   {
-    title: "Bootstrap 4",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
+    title: "Microsoft Power BI Data Analyst Professional",
+    cardImage: "assets/images/education-page/microsoft.jpg",
+    moocLink: "https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_microsoft-power-bi-data-analyst_microsoft_FTCOF_professional-certificates_country-US-country-CA&campaignid=20492962295&adgroupid=156381030121&device=c&keyword=microsoft%20power%20bi%20data%20analyst%20professional%20certificate&matchtype=b&network=g&devicemodel=&adposition=&creativeid=671352776120&hide_mobile_promo&gad_source=1&gbraid=0AAAAADdKX6atVvLRGKSvavGeesRjp2h1j&gclid=Cj0KCQiA9667BhDoARIsANnamQbynvqWqkrZGMOpXswa8g3cQ4Y2m-ohylb7tmfAZur7RLJap-Q_08UaAgH6EALw_wcB",
   },
   {
-    title: "Intro to React",
-    cardImage: "assets/images/education-page/edx.svg",
-    moocLink: "https://www.edx.org/learn/reactjs",
-  },
-  {
-    title: "Intro to React Native",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
-  },
-  {
-    title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
-  },
-  {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
-  },
-  {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink:
-      "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+    title: "Google Cybersecurity Professional",
+    cardImage: "assets/images/education-page/google.svg",
+    moocLink: "https://www.coursera.org/professional-certificates/google-cybersecurity/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-cybersecurity_google_FTCOF_professional-certificates_country-CA&campaignid=20099713824&adgroupid=147557958846&device=c&keyword=google%20cybersecurity%20professional%20certificate&matchtype=b&network=g&devicemodel=&adposition=&creativeid=724104686817&hide_mobile_promo&gad_source=1&gbraid=0AAAAADdKX6anMA_VuA5m1U8tG43uGuJiP&gclid=Cj0KCQiA9667BhDoARIsANnamQaT0MIjonEEQz4Hqg3uKayCtcy2S99gtxV2RPFtBqCO4bSLHAYd3hAaAq4lEALw_wcB",
   },
 ];
 
